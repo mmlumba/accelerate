@@ -51,3 +51,6 @@ Theme Name:   Accelerate Theme Child
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+.case-study-title h2 {
+  font: 700 24px 'Montserrat';
+}
